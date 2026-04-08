@@ -1,4 +1,4 @@
-# 📊 Fundamentals of Data Analytics Lab – Week 8 Assignment
+# 📊 Fundamentals of Data Analytics Assignment 
 
 ## 📌 Overview
 This project focuses on applying statistical techniques using Python to analyze business datasets. The goal is to derive meaningful insights and support data-driven decision-making.
